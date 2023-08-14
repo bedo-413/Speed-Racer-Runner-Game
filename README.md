@@ -1,0 +1,5 @@
+# Speed-Racer-Runner-Game
+An infinite runner game, just like subway surfers, i made for a project
+
+THIS IS A PROJECT IVE WORKED ON, IT CONTAINS A RAR FILE WHICH CONTAINS ALL FILES DEVELOPED IN UNITY 
+AND IT CONTAINS EXE FILE WHICH IS THE GAME BUILD IF YOU WANNA TRY IT 
